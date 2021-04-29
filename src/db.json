@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Aman",
+    "country": "India",
+    "date": "1st Jan 1920",
+    "email": "aman@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Swish",
+    "country": "USA",
+    "date": "1st Feb 1920",
+    "email": "swish@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohit",
+    "country": "CHINA",
+    "date": "1st Jan 2020",
+    "email": "rohit@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "country": "pakisthan",
+    "date": "26 March 2002",
+    "email": "priya@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Amit",
+    "country": "Scotland",
+    "date": "1st June 2004",
+    "email": "rohit@gmail.com"
+  },
+  {
+    "id": 6,
+    "name": "Ritu",
+    "country": "England",
+    "date": "1st July 1998",
+    "email": "ritu@gmail.com"
+  },
+  {
+    "id": 7,
+    "name": "Akshit",
+    "country": "Bangladesh",
+    "date": "1st Nov 2010",
+    "email": "akshit@gmail.com"
+  },
+  {
+    "id": 8,
+    "name": "Lucky",
+    "country": "Australia",
+    "date": "1st Jan 2020",
+    "email": "lucky@gmail.com"
+  },
+  {
+    "id": 9,
+    "name": "Nitin",
+    "country": "Sri Lanka",
+    "date": "29 Dec 2004",
+    "email": "nitin@gmail.com"
+  },
+  {
+    "id": 10,
+    "name": "Suman",
+    "country": "Iceland",
+    "date": "29 Sept 2009",
+    "email": "suman@gmail.com"
+  }
+]
